@@ -1,0 +1,20 @@
+#+TITLE: zprint-format
+This is an Emacs package to [[https://github.com/purcell/emacs-reformatter][reformat]] Clojure code using [[https://github.com/kkinnear/zprint][zprint]]
+
+* Installation
+Ensure that the [[https://github.com/kkinnear/zprint][zprint]] executable is on your exec path
+
+#+BEGIN_SRC elisp
+    (leaf zprint-format
+      :ensure t)
+#+END_SRC
+
+* Usage
+- zprint-format-buffer - Formats the entire buffer
+- zprint-format-region - Formats the selected region
+- zprint-format-on-save-mode - Minor mode that formats the entire buffer on save
+
+* License
+zprint-format is distributed under the GNU General Public License, version 3.
+
+Copyright © 2021 Derek Passen
