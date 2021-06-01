@@ -1,9 +1,9 @@
-;;; zprint-format.el --- emacs package to reformat Clojure code using zprint -*- lexical-binding: t -*-
+;;; zprint-format.el --- Reformatter Clojure code using zprint -*- lexical-binding: t -*-
 
 ;; Copyright © 2021 Derek Passen
 
 ;; Author: Derek Passen <dpassen1@gmail.com>
-;; Keywords: clojure, zprint
+;; Keywords: clojure, zprint, tools, languages
 ;; URL: http://www.github.com/dpassen/zprint-format
 ;; Package-Requires: ((emacs "24") (reformatter "0.3"))
 ;; Version: 1.0.0
