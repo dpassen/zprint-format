@@ -1,6 +1,8 @@
 #+TITLE: zprint-format
 This is an Emacs package to [[https://github.com/purcell/emacs-reformatter][reformat]] Clojure code using [[https://github.com/kkinnear/zprint][zprint]]
 
+[[https://melpa.org/#/zprint-format][file:https://melpa.org/packages/zprint-format-badge.svg]]
+
 * Installation
 Ensure that the [[https://github.com/kkinnear/zprint][zprint]] executable is on your exec path
 
