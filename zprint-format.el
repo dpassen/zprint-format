@@ -1,4 +1,4 @@
-;;; zprint-format.el --- Reformatter Clojure code using zprint -*- lexical-binding: t -*-
+;;; zprint-format.el --- Reformat Clojure code using zprint -*- lexical-binding: t -*-
 
 ;; Copyright © 2021 Derek Passen
 
